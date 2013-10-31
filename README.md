@@ -8,3 +8,15 @@ hi
 boop
 
 hi
+
+
+
+```javascript
+// some code
+```
+
+```javascript
+// some more code
+```
+
+hi
